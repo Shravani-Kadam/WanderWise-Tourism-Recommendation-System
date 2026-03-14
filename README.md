@@ -94,6 +94,16 @@ cd WanderWise-Tourism-Recommendation-System
 ```
 python app.py
 ```
+## 📸 Project Screenshots
+
+### Home Page
+![Home](screenshots/home.jpg)
+
+### Recommendation System
+![Recommendation](screenshots/recommendation.jpg)
+
+### Results
+![Results](screenshots/results.jpg)
 
 ### 4️⃣ Open your browser and go to
 
