@@ -94,6 +94,11 @@ cd WanderWise-Tourism-Recommendation-System
 ```
 python app.py
 ```
+### 4️⃣ Open your browser and go to
+
+```
+http://127.0.0.1:5000
+```
 ## 📸 Project Screenshots
 
 ### Home Page
@@ -105,9 +110,4 @@ python app.py
 ### Results
 ![Results](screenshots/results.jpg)
 
-### 4️⃣ Open your browser and go to
-
-```
-http://127.0.0.1:5000
-```
 
