@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>WanderWise - India Tourism Recommendation</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+
+<!-- NAVBAR -->
+
+<header class="navbar">
+
+<div class="logo">WanderWise</div>
+
+<nav>
+<a href="#">Home</a>
+<a href="#categories">Categories</a>
+<a href="#trending">Trending</a>
+</nav>
+
+</header>
+
+
+
+<!-- HERO SECTION -->
+
+<section class="hero">
+
+<div class="hero-content">
+
+<h1>Discover Incredible India</h1>
+
+<p>Personalized travel recommendations</p>
+
+<div class="search-box">
+
+<input
+type="text"
+placeholder="Search places like Goa, Manali..."
+id="searchInput"
+>
+
+<button onclick="explore()">Explore</button>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<!-- CATEGORIES -->
+
+<section class="categories" id="categories">
+
+<h2>Choose your vibe</h2>
+
+<div class="category-grid">
+
+<div class="category-card" onclick="recommendByCategory('Adventure')">
+
+<img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee">
+
+<h3>Adventure</h3>
+
+</div>
+
+
+<div class="category-card" onclick="recommendByCategory('Nature')">
+
+<img src="https://images.unsplash.com/photo-1526772662000-3f88f10405ff">
+
+<h3>Nature</h3>
+
+</div>
+
+
+<div class="category-card" onclick="recommendByCategory('Historical')">
+
+<img src="https://images.unsplash.com/photo-1564507592333-c60657eea523">
+
+<h3>Historical</h3>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- RECOMMENDATION FORM -->
+
+<section class="recommend-form">
+
+<h2>Find Your Perfect Destination</h2>
+
+<div class="form-container">
+
+<input
+type="number"
+id="budget"
+placeholder="Enter Budget (₹)"
+>
+
+<input
+type="number"
+id="days"
+placeholder="Number of Days"
+>
+
+
+<select id="season">
+
+<option value="">Select Season</option>
+<option value="Winter">Winter</option>
+<option value="Summer">Summer</option>
+<option value="Monsoon">Monsoon</option>
+
+</select>
+
+
+<select id="month">
+
+<option value="">Select Month</option>
+
+<option value="January">January</option>
+<option value="February">February</option>
+<option value="March">March</option>
+<option value="April">April</option>
+<option value="May">May</option>
+<option value="June">June</option>
+<option value="July">July</option>
+<option value="August">August</option>
+<option value="September">September</option>
+<option value="October">October</option>
+<option value="November">November</option>
+<option value="December">December</option>
+
+</select>
+
+
+<button onclick="recommendPlace()">
+
+Find Destination
+
+</button>
+
+</div>
+
+</section>
+
+
+<!-- RESULTS -->
+
+<section id="results">
+
+<h2>Recommended Destinations</h2>
+
+<div id="resultList"></div>
+
+</section>
+
+
+
+<!-- TRENDING DESTINATIONS -->
+
+<section class="trending" id="trending">
+
+<h2>Trending Destinations in India</h2>
+
+<div class="destination-grid">
+
+<div class="card">
+
+<img src="images/goa.jpg">
+
+<h3>Goa</h3>
+
+</div>
+
+
+<div class="card">
+
+<img src="images/manali.jpg">
+
+<h3>Manali</h3>
+
+</div>
+
+
+<div class="card">
+
+<img src="images/jaipur.jpg">
+
+<h3>Jaipur</h3>
+
+</div>
+
+
+<div class="card">
+
+<img src="images/agra.jpg">
+
+<h3>Agra</h3>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<!-- CTA -->
+
+<section class="cta">
+
+<h2>Unsure where to go?</h2>
+
+<p>Let our system recommend a destination.</p>
+
+<button onclick="recommend()">
+
+Get Recommendation
+
+</button>
+
+</section>
+
+
+
+<!-- FOOTER -->
+
+<footer>
+
+<p>© 2026 WanderWise</p>
+
+</footer>
+
+
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
+

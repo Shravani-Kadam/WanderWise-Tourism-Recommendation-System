@@ -1,0 +1,32 @@
+place,state,type,season,month,budget,days,rating,image
+Manali,Himachal Pradesh,Adventure,Winter,December,15000,4,4.7,manali.jpg
+Leh Ladakh,Ladakh,Adventure,Summer,June,25000,6,4.9,ladakh.jpg
+Rishikesh,Uttarakhand,Adventure,Winter,November,8000,3,4.6,rishikesh.jpg
+Spiti Valley,Himachal Pradesh,Adventure,Summer,May,22000,7,4.8,spiti valley.jpg
+Goa,Goa,Nature,Winter,January,12000,5,4.8,goa.jpg
+Munnar,Kerala,Nature,Monsoon,July,10000,4,4.7,munnar.jpg
+Ooty,Tamil Nadu,Nature,Summer,April,9000,3,4.5,ooty.jpg
+Coorg,Karnataka,Nature,Monsoon,August,11000,4,4.6,https://images.unsplash.com/photo-1605538883669-825b5c0f8d89
+Jaipur,Rajasthan,Historical,Winter,November,13000,3,4.8,jaipur.jpg
+Udaipur,Rajasthan,Historical,Winter,December,16000,3,4.9,https://images.unsplash.com/photo-1585135497273-1a86b09fe70e
+Agra,Uttar Pradesh,Historical,Winter,January,7000,2,4.7,agra.jpg
+Hampi,Karnataka,Historical,Winter,October,9000,3,4.6,hampi.jpg
+Varanasi,Uttar Pradesh,Spiritual,Winter,November,8000,3,4.7,https://images.unsplash.com/photo-1600100575678-d7a8f0c99a6e
+Amritsar,Punjab,Historical,Winter,December,7500,2,4.8,https://images.unsplash.com/photo-1587922546307-776227941871
+Darjeeling,West Bengal,Nature,Summer,May,12000,4,4.7,darjeeling.jpg
+Shimla,Himachal Pradesh,Nature,Winter,January,10000,3,4.6,shimla.jpg
+Andaman Islands,Andaman,Nature,Summer,March,30000,6,4.9,https://images.unsplash.com/photo-1507525428034-b723cf961d3e
+Lakshadweep,Lakshadweep,Nature,Summer,March,32000,5,4.8,https://images.unsplash.com/photo-1507525428034-b723cf961d3e
+Kedarnath,Uttarakhand,Spiritual,Summer,June,15000,4,4.9,https://images.unsplash.com/photo-1627894483216-2138af692e32
+Badrinath,Uttarakhand,Spiritual,Summer,June,14000,4,4.8,https://images.unsplash.com/photo-1627894483216-2138af692e32
+Tawang,Arunachal Pradesh,Nature,Winter,December,20000,5,4.7,https://images.unsplash.com/photo-1519681393784-d120267933ba
+Gangtok,Sikkim,Nature,Summer,April,14000,4,4.7,https://images.unsplash.com/photo-1544735716-392fe2489ffa
+Kaziranga,Assam,Wildlife,Winter,January,13000,3,4.6,https://images.unsplash.com/photo-1500534314209-a25ddb2bd429
+Jim Corbett,Uttarakhand,Wildlife,Winter,December,12000,3,4.6,https://images.unsplash.com/photo-1500534314209-a25ddb2bd429
+Ranthambore,Rajasthan,Wildlife,Winter,November,14000,3,4.7,https://images.unsplash.com/photo-1500534314209-a25ddb2bd429
+Mount Abu,Rajasthan,Nature,Summer,May,9000,3,4.5,mount abu.jpg
+Mahabaleshwar,Maharashtra,Nature,Winter,December,8000,2,4.5,https://images.unsplash.com/photo-1501785888041-af3ef285b470
+Alleppey,Kerala,Nature,Winter,January,15000,3,4.8,https://images.unsplash.com/photo-1602216056096-3b40cc0c9944
+Pondicherry,Tamil Nadu,Beach,Winter,January,11000,3,4.6,https://images.unsplash.com/photo-1507525428034-b723cf961d3e
+Gokarna,Karnataka,Beach,Winter,December,9000,3,4.7,https://images.unsplash.com/photo-1507525428034-b723cf961d3e
+
