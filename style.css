@@ -172,7 +172,7 @@ transform:scale(1.05);
 .trending{
 padding:70px 40px;
 text-align:center;
-background:white;
+background:rgb(221, 221, 221);
 }
 
 .trending h2{
@@ -281,7 +281,9 @@ padding:15px 20px;
 
 }
 
-/* ============================= */ /* RECOMMENDATION FORM */ /* ============================= */ 
+/* ============================= */ 
+/* RECOMMENDATION FORM */ 
+/* ============================= */ 
 .recommend-form{ padding:70px 40px; background:#f8fafc; text-align:center; } 
 .recommend-form h2{ font-size:32px; margin-bottom:25px; } 
 .form-container{ display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:20px; } 
